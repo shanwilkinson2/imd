@@ -1,4 +1,4 @@
-# imd
+# IMD
 Makes a leaflet map showing:
 * Greater Manchester Lower Super Output Areas (LSOAs) that are in the top/ bottom 10% of the Index of Multiple Deprivation (IMD) 
 * Semi transparent so can see changes
